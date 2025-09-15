@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../primeira"
+		},
+		{
+			"path": "../quarta"
+		},
+		{
+			"path": "../segunda"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "primeira"
+	}
+}
